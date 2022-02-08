@@ -1,6 +1,5 @@
 <h1>
-<img class="transdev-logo" src="./assets/img/TRANSDEV.png" alt="transdev-logo" style="width: 100px;
-        border-radius: 50%"/>
+<img width="100" src="./assets/img/TRANSDEV.png" alt="transdev-logo"/>
 <br>
 TransDev for VSCode
 </h1>
@@ -16,13 +15,10 @@ Então instale logo aí pra dar uma força pra nós ^^.
 <br>
 
 # Sobre a autora:
-
-<br>
-<div style="display: flex; align-items: center; margin-bottom: 1rem;">
-<img src="https://github.com/dianamartine.png" style="border-radius: 50%; margin-right: 1rem; width: 120px;"/>
-<span style="background-image: linear-gradient(45deg, #bb3186, #2a9da2);-webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 24pt;">
-Diana Martine
-</sp>
+<div>
+<img src="https://github.com/dianamartine.png" width="100" />
+        <br>
+        <p>Diana Martine</p>
 </div>
 
 <p>
