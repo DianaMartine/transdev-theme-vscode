@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
 <img width="100" src="./assets/img/TRANSDEV.png" alt="transdev-logo"/>
 <br>
 TransDev for VSCode
