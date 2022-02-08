@@ -30,7 +30,7 @@
     "theme",
     "dark-theme"
   ],
-  "icon": "./assets/img/TRANSDEV-small.png",
+  "icon": "TRANSDEV-small.png",
   "galleryBanner": {
     "color": "#11004e",
     "theme": "dark"
