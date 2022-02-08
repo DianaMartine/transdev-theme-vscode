@@ -1,0 +1,43 @@
+{
+    "name": "transdev-theme",
+    "displayName": "transdev theme",
+    "description": "The vscode theme by TransDev",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "author": {
+        "email": "diana_martine@outlook.com",
+        "name": "Diana Martine",
+        "url": "https://github.com/dianamartine"
+    },
+    "maintainers": [
+        {
+            "email": "diana_martine@outlook.com",
+            "name": "Diana Martine",
+            "url": "https://github.com/dianamartine"
+        }
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "TransDev",
+        "theme",
+        "dark-theme"
+    ],
+    "icon": "./assets/img/TRANSDEV-small.png",
+    "galleryBanner": {
+        "color": "#11004e",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "TransDev",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TransDev-color-theme.json"
+            }
+        ]
+    }
+}
